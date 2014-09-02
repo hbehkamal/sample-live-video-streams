@@ -1,0 +1,17 @@
+{
+	"reponame":"sample-live-video-streams",
+	"title":"Live Video Streams",
+	"abbr":"Live Video",
+	"tooltip":"[App Designer Ready] This sample application showcases online LIVE video streams from various sources.",
+	"description":"[App Designer Ready] This sample application showcases online LIVE video streams from various sources.",
+	"articleurl":"TBA",
+    	"screenshotUrl":"",
+    	"iconUrl":"",
+	"highlights":["App Designer", "App Framework"],
+    	"keywords":["App Designer", "App Framework"],
+	"visible": "true",
+	"apppreview":"true",
+	"type":"appdesigner",
+	"appname":"demo.livevideostreamapp",
+	"relname":"4.0.0"
+}
